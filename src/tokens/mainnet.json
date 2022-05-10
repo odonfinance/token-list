@@ -1,0 +1,98 @@
+[
+  {
+    "name": "ODON",
+    "address": "0x8b02349907B605734C0694CA67C41D057c9D8895",
+    "symbol": "ODON",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/odon.png"
+  },
+  {
+    "name": "Wrapped MOVR",
+    "address": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
+    "symbol": "WMOVR",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/wmovr.png"
+  },
+  {
+    "name": "USDC Coin",
+    "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/usdc.png"
+  },
+  {
+    "name": "DAI Stablecoin",
+    "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/dai.png"
+  },
+  {
+    "name": "FRAX Token",
+    "address": "0x1A93B23281CC1CDE4C4741353F3064709A16197d",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/frax.png"
+  },
+  {
+    "name": "FXS Token",
+    "address": "0x6f1D1Ee50846Fcbc3de91723E61cb68CFa6D0E98",
+    "symbol": "FXS",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/frax.png"
+  },
+  {
+    "name": "xcKSM Token",
+    "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
+    "symbol": "xcKSM",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/xcksm.png"
+  },
+  {
+    "name": "Zenlink Network Token",
+    "address": "0x0f47ba9d9Bde3442b42175e51d6A367928A1173B",
+    "symbol": "ZLK",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/zlk.png"
+  },
+  {
+    "name": "Crowns Token",
+    "address": "0x6fc9651f45B262AE6338a701D563Ab118B1eC0Ce",
+    "symbol": "CWS",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/cws.png"
+  },
+  {
+    "name": "SolarBeam Token",
+    "address": "0x6bD193Ee6D2104F14F94E2cA6efefae561A4334B",
+    "symbol": "SOLAR",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/solar.png"
+  },
+  {
+    "name": "RiverBoat",
+    "address": "0xbD90A6125a84E5C512129D622a75CDDE176aDE5E",
+    "symbol": "RIB",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/rib.png"
+  },
+  {
+    "name": "Space Token",
+    "address": "0x55aF5865807b196bD0197e0902746F31FBcCFa58",
+    "symbol": "SPACE",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/space.png"
+  }
+]
