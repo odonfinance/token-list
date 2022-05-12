@@ -13,7 +13,7 @@
     "symbol": "WMOVR",
     "decimals": 18,
     "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/wmovr.png"
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/wmovr.jpg"
   },
   {
     "name": "USDC Coin",
@@ -21,7 +21,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/usdc.png"
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/usdc.jpg"
   },
   {
     "name": "DAI Stablecoin",
@@ -29,7 +29,31 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/dai.png"
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/dai.jpg"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/usdt.jpg"
+  },
+  {
+    "name": "Wrapped Bitcoin",
+    "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/wbtc.jpg"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/weth.jpg"
   },
   {
     "name": "FRAX Token",
@@ -37,7 +61,7 @@
     "symbol": "FRAX",
     "decimals": 18,
     "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/frax.png"
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/frax.jpg"
   },
   {
     "name": "FXS Token",
@@ -45,15 +69,15 @@
     "symbol": "FXS",
     "decimals": 18,
     "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/frax.png"
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/fxs.jpg"
   },
   {
     "name": "xcKSM Token",
     "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
     "symbol": "xcKSM",
-    "decimals": 18,
+    "decimals": 12,
     "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/xcksm.png"
+    "logoURI": "https://raw.githubusercontent.com/odonfinance/token-list/master/src/tokens/assets/xcksm.jpg"
   },
   {
     "name": "Zenlink Network Token",
